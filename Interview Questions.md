@@ -8,7 +8,7 @@ I'm a software developer with hundreds of hours in javascript and c#.  I've rece
 
 1 Tell me about a time you made a mistake and wished you handled a situation with a colleague differently.
 
-(Situation) (Task) (Action) (Result)
+(Situation) I was tasked with a partner project and we had a minor disagreement on how to handle an issue we were faced with.  (Task) We were deciding on best to layout the design of our site, I was being adamant that I was correct.  (Action) I had challenged my partner to prove that he was correct.  (Result) My partner was correct and I shouldn't have been so adamant.  I learned that in these situations it's best to be open to other's ideas and vision.  I've had several situations since where I had an idea how to handle an issue but I was patient and was able to adapt to how my other teammates ideas.
 
 2 Describe a time when it was especially important to make a good impression on a client.  How did you go about doing so?
 
@@ -27,8 +27,23 @@ I'm a software developer with hundreds of hours in javascript and c#.  I've rece
 (Situation) At my previous job, I was in a position helping customers but that would only take up half of the time and I had very little supervision. (Task) I needed to find something to fill up the rest of my time that would also be productive. (Action) I had some prior experience in retail so I applied what I knew about managing a storefront to our lobby.  I created tags for products with part names and descriptions.  I also organized the parts so they were easier to manage and restock. (Result) My organization and displays impressed upper management when they visited and they soon after decided to implement what I had done throughout the other branches of the company.
 
 
+
 Preparing to be a good candidate
+
+I can prepare for an interview by researching a company and the interviewer(if possible).  Having a grasp on a companies mission can help guide my interview questions to align with what the company values.  I can also have an stockpile of scenarios ready to adapt into the questions I'm asked.
+
+
 
 Whiteboard Challenges
 
+I did not do any peer whiteboard challenges but I attended all of the available after class lessons and have done quite a bit of Edabit and leetcode.  When I did a whiteboard challenge it was quite intimidating having a bunch of people watch me solve a problem and I struggled to get going with the challenge.  Once I was solving the problem I felt more comfortable but still was slow to solve the problem.  
+
+
+
 End of interview Questions
+
+1 Are there any ways to improve or learn new skills within the company?
+2 What will be some of the day to day tasks I will be responsible for?
+3 What are the most challenging aspects of the job?
+4 What types of skills does an ideal candidate bring to the position?
+5 What are the next steps of the interview process? / When Can I expect to hear back from you?
