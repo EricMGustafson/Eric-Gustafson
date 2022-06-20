@@ -1,6 +1,6 @@
 Elevator Pitch
 
-I'm a software developer with hundreds of hours in javascript and c#.  I've recently completed a coding boot camp and graduated without missing or failing an assignment.  I created 10 web projects throughout the course on a near weekly basis. I plan on finding a job that will enable me to further develop my abilities while working on real development products that are used by people.
+I'm a software developer with experience working in Javascript, Node.js, C#, and MySQL.  I've recently completed a coding boot camp and graduated without missing or failing an assignment. Throughout this course I went from creating a landing page to creating a full-stack application.  I have built projects with a team and have great communication skills.  I have prior experience working with customers and helping find them solutions and frequently had to manage due dates to fulfill their orders.  I hope to find a job that will enable me to further develop my abilities while working on real development products that are used by people.
 
 
 
@@ -8,7 +8,7 @@ I'm a software developer with hundreds of hours in javascript and c#.  I've rece
 
 1 Tell me about a time you made a mistake and wished you handled a situation with a colleague differently.
 
-(Situation) I was tasked with a partner project and we had a minor disagreement on how to handle an issue we were faced with.  (Task) We were deciding on best to layout the design of our site, I was being adamant that I was correct.  (Action) I had challenged my partner to prove that he was correct.  (Result) My partner was correct and I shouldn't have been so adamant.  I learned that in these situations it's best to be open to other's ideas and vision.  I've had several situations since where I had an idea how to handle an issue but I was patient and was able to adapt to how my other teammates ideas.
+I was working with another developer and we had a difference of opinions on how to best lay out the design of our site. We obviously needed to come to a cohesive decision so we could move on to the build of the application and meet a strict deadline. I was feeling passionate about the way I would go about in solving the problem, this developer felt the same way about their ideas. After having them break down their solution I realized they were in the right and their way was more efficient.
 
 2 Describe a time when it was especially important to make a good impression on a client.  How did you go about doing so?
 
@@ -43,6 +43,7 @@ I did not do any peer whiteboard challenges but I attended all of the available 
 End of interview Questions
 
 1 Are there any ways to improve or learn new skills within the company?
+  Are there any topics or skill that I could look into in order to be a better fit with your company?
 2 What will be some of the day to day tasks I will be responsible for?
 3 What are the most challenging aspects of the job?
 4 What types of skills does an ideal candidate bring to the position?
